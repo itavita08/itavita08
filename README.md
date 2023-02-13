@@ -33,5 +33,5 @@
 <br/> 
 <br/>  
 
-[![Itavita08's GitHub stats](https://github-readme-stats.vercel.app/api?username=itavita08)]()[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itavita08&layout=compact)](https://github.com/itavita08/github-readme-stats)
+[![Itavita08's GitHub stats](https://github-readme-stats.vercel.app/api?username=itavita08)]()[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itavita08&hide=jupyter%20notebook&layout=compact)](https://github.com/itavita08/github-readme-stats)
 
