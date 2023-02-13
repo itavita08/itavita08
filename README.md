@@ -3,8 +3,8 @@
 <div align="center"><h4>:smiley: Introduction</h4></div>
 <div align="center">안녕하세요! 딥러닝과 빅데이터에도 관심이 있고 항상 새로운것을 배우고 싶어하는</div>
 <div align="center">백엔드 웹개발자를 꿈꾸고 있는 신입 개발자입니다!:fire:</div>
-
-
+<br/> 
+<br/> 
 <div align="center"><h4>:book: Stacks</h4></div>
 <div align="center"><h5>Front</h5></div>
 <div align="center">
@@ -29,9 +29,9 @@
 <div align="center"><h5>Cloud</h5></div>
 <div align="center">
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>  
-</div>
+</div>   
+<br/> 
+<br/>  
 
-[![Itavita08's GitHub stats](https://github-readme-stats.vercel.app/api?username=itavita08)]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itavita08&layout=compact)](https://github.com/itavita08/github-readme-stats)
+[![Itavita08's GitHub stats](https://github-readme-stats.vercel.app/api?username=itavita08)]()[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itavita08&layout=compact)](https://github.com/itavita08/github-readme-stats)
 
