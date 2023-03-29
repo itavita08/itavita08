@@ -30,8 +30,14 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>  
 </div>   
-<br/> 
-<br/>  
+<br/>
+<div align="center"><h3>Portfolio</h3></div>
+<div align="center">
+  <a href="itavita08.github.io">포트폴리오</a>
+</div>   
+<br/>
+<br/>
+
 
 [![Itavita08's GitHub stats](https://github-readme-stats.vercel.app/api?username=itavita08)]()[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itavita08&hide=jupyter%20notebook&layout=compact)](https://github.com/itavita08/github-readme-stats)
 
