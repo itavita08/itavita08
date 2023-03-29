@@ -33,7 +33,7 @@
 <br/>
 <div align="center"><h3>Portfolio</h3></div>
 <div align="center">
-  <a href="itavita08.github.io">포트폴리오</a>
+  <a href="https://itavita08.github.io/">포트폴리오</a>
 </div>   
 <br/>
 <br/>
