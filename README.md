@@ -2,7 +2,7 @@
 --
 <div align="center"><h3>:smiley: Introduction</h3></div>
 <div align="center">안녕하세요! 딥러닝과 빅데이터에도 관심이 있고 항상 새로운것을 배우고 싶어하는</div>
-<div align="center">백엔드 웹개발자를 꿈꾸고 있는 신입 개발자입니다!:fire:</div>
+<div align="center">백엔드 개발자를 꿈꾸고 있는 신입 개발자입니다!:fire:</div>
 <br/> 
 <br/> 
 <div align="center"><h3>:book: Stacks</h3></div>
